@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Vicky
 
-<!--
-**VickyNaishorua/VickyNaishorua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Content Review Analyst transitioning into Data Science and Machine Learning, with a background in Business Accounting. I specialize in data cleaning, exploratory data analysis, and building predictive models in Python.
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Building predictive machine learning models (XGBoost, LightGBM) and forecasting tools.
+- 🌱 **Actively Learning:** Advanced Data Analytics for Economics and Finance.
+- 💻 **Core Tools:** Python, Pandas, NumPy, Scikit-Learn, Google Colab, Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 📜 Professional Certifications
+
+### Data Science & Machine Learning — ParoCyber
+<img width="1748" height="1240" alt="Certificate_DS ML" src="https://github.com/user-attachments/assets/b11dc30b-1940-4518-b2cd-45f1ce6424fe" />

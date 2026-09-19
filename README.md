@@ -13,3 +13,7 @@ A Content Review Analyst transitioning into Data Science and Machine Learning, w
 
 ### Data Science & Machine Learning — ParoCyber
 <img width="1748" height="1240" alt="Certificate_DS ML" src="https://github.com/user-attachments/assets/b11dc30b-1940-4518-b2cd-45f1ce6424fe" />
+
+### Data Analytics - Women Techsters Bootcamp (Tech4Dev)
+[Vicky_Naishorua_Data_Analysis_Bootcamp_Certificate.pdf](https://github.com/user-attachments/files/32413626/Vicky_Naishorua_Data_Analysis_Bootcamp_Certificate.pdf)
+
